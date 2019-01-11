@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Chicken Vesuvio",
+    "price": 48
+  },
+  {
+    "name": "Chicken Paprikash",
+    "price": 5
+  },
+  {
+    "name": "Chicken Gravy",
+    "price": 72
+  },
+  {
+    "name": "Catalan Chicken",
+    "price": 14
+  },
+  {
+    "name": "Citrus Roasted Chicken",
+    "price": 37
+  },
+  {
+    "name": "Persian Chicken",
+    "price": 30
+  },
+  {
+    "name": "Kreplach (Chicken Dumplings)",
+    "price": 86
+  },
+  {
+    "name": "Twistin’ Chicken",
+    "price": 8
+  },
+  {
+    "name": "Chicken Piccata",
+    "price": 33
+  },
+  {
+    "name": "Roast Chicken",
+    "price": 44
+  }
+]
